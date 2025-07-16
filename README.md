@@ -7,4 +7,4 @@ interview stunning.io
 
 ### after finish the backend and run teh server to make sure it's actually running I create teh prompt for the front end to handlle fetch data and error handling
 
-## video URL: https://drive.google.com/file/d/1jggyHiuIPe75pCwWxiVQGZ9EMSohC7EI/view?usp=drive_link
+## video URL: https://drive.google.com/file/d/1jggyHiuIPe75pCwWxiVQGZ9EMSohC7EI/view?usp=sharing
